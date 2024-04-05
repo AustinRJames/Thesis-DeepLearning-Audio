@@ -22,7 +22,7 @@ This section of the project is in two parts: Machine Learning Algos and Neural N
 ## Intro to Digital Audio Concepts
 I was already quite familiar with digital audio concepts, but I found this great YouTube series for review of concepts! [Sound of AI](https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=3R3ppHyZaTqLaawr)
 
-Even though this resource uses MATLAB and not Python, it is an excellet resource if you are just getting started in the world of digital audio! [Hack Audio](https://www.amazon.com/Hack-Audio-Engineering-Society-Presents/dp/113849755X)
+Even though this resource uses MATLAB and not Python, it is an excellent resource if you are just getting started in the world of digital audio! [Hack Audio](https://www.amazon.com/Hack-Audio-Engineering-Society-Presents/dp/113849755X)
 
 **Audio concepts you should know before combining all that we learned!**
 
