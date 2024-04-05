@@ -34,4 +34,7 @@ Even though this resource uses MATLAB and not Python, it is an excellet resource
 - Mel Frequency Cepstrum Coefficients
 - Spectrograms
 - Fourier Transform
-- 
+
+## Finally, Combining Audio AND Neural Networks!
+For this I followed along the Sound of AI playlist above to work on Neural Networks! This part of the project was mostly focused on genre classifcation and audio data preparation using the GTZAN data set. 
+
